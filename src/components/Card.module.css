@@ -1,0 +1,5 @@
+.card {
+  border: solid 1px var(--color-border);
+  border-radius: 0.5rem;
+  overflow: hidden;
+}

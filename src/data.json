@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": {
+        "displayName": "Lilja Lampinen",
+        "photoUrl": "https://randomuser.me/api/portraits/women/50.jpg"
+      },
+      "photoUrl": "https://img.dummyapi.io/photo-1564440083381-fd594ac31522.jpg"
+    },
+    {
+      "id": 2,
+      "user": {
+        "displayName": "Lilja Lampinen",
+        "photoUrl": "https://randomuser.me/api/portraits/women/50.jpg"
+      },
+      "photoUrl": "https://images.unsplash.com/photo-1612843058636-cc900d5d463d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1355&q=80"
+    },
+    {
+      "id": 3,
+      "user": {
+        "displayName": "Lilja Lampinen",
+        "photoUrl": "https://randomuser.me/api/portraits/women/50.jpg"
+      },
+      "photoUrl": "https://images.unsplash.com/photo-1612890695202-e125d8e55960?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 4,
+      "user": {
+        "displayName": "Lilja Lampinen",
+        "photoUrl": "https://randomuser.me/api/portraits/women/50.jpg"
+      },
+      "photoUrl": "https://images.unsplash.com/photo-1612914623744-6e677c9520c3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80"
+    },
+    {
+      "id": 5,
+      "user": {
+        "displayName": "Lilja Lampinen",
+        "photoUrl": "https://randomuser.me/api/portraits/women/50.jpg"
+      },
+      "photoUrl": "https://images.unsplash.com/photo-1612905546091-4ea0ba0bfaf9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+    },
+    {
+      "id": 6,
+      "user": {
+        "displayName": "Lilja Lampinen",
+        "photoUrl": "https://randomuser.me/api/portraits/women/50.jpg"
+      },
+      "photoUrl": "https://images.unsplash.com/photo-1612900870552-0312616bac06?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 7,
+      "user": {
+        "displayName": "Lilja Lampinen",
+        "photoUrl": "https://randomuser.me/api/portraits/women/50.jpg"
+      },
+      "photoUrl": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?ixid=MXwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 8,
+      "user": {
+        "displayName": "Lilja Lampinen",
+        "photoUrl": "https://randomuser.me/api/portraits/women/50.jpg"
+      },
+      "photoUrl": "https://images.unsplash.com/photo-1612889971119-c3a3eb9ea21f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=701&q=80"
+    },
+    {
+      "id": 9,
+      "user": {
+        "displayName": "Lilja Lampinen",
+        "photoUrl": "https://randomuser.me/api/portraits/women/50.jpg"
+      },
+      "photoUrl": "https://images.unsplash.com/photo-1612897996381-fff7a593d2a4?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=622&q=80"
+    }
+  ]
+}
