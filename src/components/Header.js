@@ -19,7 +19,7 @@ const titleStyle = {
 export default function Header() {
   return (
     <header className={styles.header} style={headerStyle}>
-      <div className={styles.container}>
+      <div className={[styles.container, "container"].join(" ")}>
         <div className={styles.brand}>
           <BsCamera color="var(--color-icon)" size="48px" />
           <Divider />

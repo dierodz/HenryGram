@@ -15,6 +15,15 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.button {
-  font-family: 'Sacramento', cursive;
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.postGrid {
+  padding-top: 2rem;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(calc(33% - 0.25rem), 320px));
+  grid-template-rows: repeat(auto-fill, minmax(calc(33% - 0.25rem), 320px));
+  gap: 0.5rem;
 }

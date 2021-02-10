@@ -1,12 +1,9 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Header from "./components/Header";
 //estilos globales
 import "./index.scss";
 
-ReactDOM.render(
-  <div>
-    <Header />
-  </div>,
-  document.getElementById("root")
-);
+import App from "./App";
+
+ReactDOM.render(<App />, document.getElementById("root"));
+
